@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Gabarito');
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Gabarito';
+}
+
+.root {
+  padding: 0 !important;
+}
